@@ -60,7 +60,7 @@ public class EnemyBev : MonoBehaviour
         }
     }
 
-    public static void DesEnemy(GameObject enemyObject)
+    public static void DesEnemy(GameObject enemyObject)    //hi
     {
         Destroy(enemyObject);
    
